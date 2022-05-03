@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Héctor Barreiro Cabrera</title>
+    <link>https://hecbarcab.github.io/publication-type/2/</link>
+      <atom:link href="https://hecbarcab.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hecbarcab.github.io/media/icon_hu30aed27c7ceaddd147abb547892196a9_239835_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://hecbarcab.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Soft-Tissue Simulation for Computational Planning of Orthognathic Surgery</title>
+      <link>https://hecbarcab.github.io/publication/2021-alcaniz2021softtissue/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hecbarcab.github.io/publication/2021-alcaniz2021softtissue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Eulerian-on-Lagrangian Rods</title>
+      <link>https://hecbarcab.github.io/publication/2020-sanchez2020robustrods/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://hecbarcab.github.io/publication/2020-sanchez2020robustrods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path Routing Optimization for STM Ultrasound Rendering</title>
+      <link>https://hecbarcab.github.io/publication/2020-barreiro2020prostm/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://hecbarcab.github.io/publication/2020-barreiro2020prostm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformation Constraints for Efficient Viscoelastic Fluid Simulation</title>
+      <link>https://hecbarcab.github.io/publication/2017-barreiro2017conformation/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://hecbarcab.github.io/publication/2017-barreiro2017conformation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

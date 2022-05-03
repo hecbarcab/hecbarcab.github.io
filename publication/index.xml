@@ -1,34 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
-    <link>https://example.com/publication/</link>
-      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Héctor Barreiro Cabrera</title>
+    <link>https://hecbarcab.github.io/publication/</link>
+      <atom:link href="https://hecbarcab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hecbarcab.github.io/media/icon_hu30aed27c7ceaddd147abb547892196a9_239835_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://example.com/publication/</link>
+      <link>https://hecbarcab.github.io/publication/</link>
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Soft-Tissue Simulation for Computational Planning of Orthognathic Surgery</title>
+      <link>https://hecbarcab.github.io/publication/2021-alcaniz2021softtissue/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hecbarcab.github.io/publication/2021-alcaniz2021softtissue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Tactile Interaction with Virtual Clay</title>
+      <link>https://hecbarcab.github.io/publication/2021-barreiro2021natural/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://hecbarcab.github.io/publication/2021-barreiro2021natural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Eulerian-on-Lagrangian Rods</title>
+      <link>https://hecbarcab.github.io/publication/2020-sanchez2020robustrods/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://hecbarcab.github.io/publication/2020-sanchez2020robustrods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path Routing Optimization for STM Ultrasound Rendering</title>
+      <link>https://hecbarcab.github.io/publication/2020-barreiro2020prostm/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://hecbarcab.github.io/publication/2020-barreiro2020prostm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultrasound Rendering of Tactile Interaction with Fluids</title>
+      <link>https://hecbarcab.github.io/publication/2019-barreiro2019ultrasound/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://hecbarcab.github.io/publication/2019-barreiro2019ultrasound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformation Constraints for Efficient Viscoelastic Fluid Simulation</title>
+      <link>https://hecbarcab.github.io/publication/2017-barreiro2017conformation/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://hecbarcab.github.io/publication/2017-barreiro2017conformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time Inextensible Hair with Volume and Shape</title>
+      <link>https://hecbarcab.github.io/publication/2015-sanchez2015real/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://hecbarcab.github.io/publication/2015-sanchez2015real/</guid>
+      <description></description>
     </item>
     
   </channel>
