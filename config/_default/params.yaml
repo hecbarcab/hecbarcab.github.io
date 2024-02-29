@@ -6,10 +6,12 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: website
+  #theme_night: minimal
   font: minimal
-  font_size: L
+  font_size: M
+  #mode: light
+  #color: rose
 
 # SEO
 
@@ -18,8 +20,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'Personal website of Dr. Héctor Barreiro Cabrera.'
+    #twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,7 +47,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Héctor Barreiro Cabrera. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

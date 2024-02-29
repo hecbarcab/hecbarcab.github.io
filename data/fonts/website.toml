@@ -1,0 +1,11 @@
+# Font style metadata
+name = "website"
+
+# Optional Google font URL
+google_fonts = "family=Poppins:wght@300;600&family=Roboto+Mono"
+
+# Font families
+heading_font = "Poppins"
+body_font = "Poppins"
+nav_font = "Poppins"
+mono_font = "Roboto Mono"

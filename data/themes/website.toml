@@ -1,0 +1,26 @@
+# Theme metadata
+name = "website"
+
+[light]
+  # Primary
+  primary = "#E7205F"
+
+  # Link
+  #link = "#425563"
+  #link_hover = "#425563"
+  link = "#E7205F"
+  link_hover = "#F7306F"
+
+  # Menu
+  menu_primary = "#FFF"
+  menu_text = "#404040"
+  menu_text_active = "#425563"
+  menu_title = "#404040"
+
+  # Home sections
+  home_section_odd = "#F2F2F2"
+  home_section_even = "#FFF"
+
+
+[dark]
+  
